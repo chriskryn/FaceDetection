@@ -10,7 +10,6 @@ import UIKit
 import AVFoundation
 import AVKit
 
-
 extension INVVideoViewController: AVCaptureVideoDataOutputSampleBufferDelegate,
 AVCaptureAudioDataOutputSampleBufferDelegate {
 
